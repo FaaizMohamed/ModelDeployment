@@ -36,5 +36,3 @@ def main():
     st.text("FAAIZ FAROOK MOHAMED")
     st.text("HABIB MOHAMED")
 
-if __name__ == "__main__":
-    main()
